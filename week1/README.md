@@ -18,3 +18,11 @@ What registered users can do
 
 Admin of this application can 
 - List/manage jerseys • View list of users • Moderate user interactions • Block or remove users • Manage affiliate links
+
+<details>
+<summary>Screenshot</summary>
+
+![Screen Shot 2023-01-22 at 11 32 42 AM](https://user-images.githubusercontent.com/54293301/213927317-26e48de3-0901-4544-920b-d7e0d8caf274.png)
+
+</details>
+
