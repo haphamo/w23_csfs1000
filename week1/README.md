@@ -5,6 +5,8 @@
 | Saturday | https://www.dropbox.com/sh/iysdhpj6xrac55l/AACxI2rdEsJ5a245FjOndCIaa?dl=0 | Creating a html page |
 | Sunday   | https://www.dropbox.com/s/9qjs6wt64kpwh2z/video2813830139.mp4?dl=0        | github markdown      |
 
+I've unfortunately lost the changes on the css for the code on saturday's lab. It has the html skeleton but no styles.
+
 #### Readme formatting
 
 You can do this directly on github or on your code editor.
