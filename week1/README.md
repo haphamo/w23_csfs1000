@@ -10,6 +10,20 @@
 You can do this directly on github or on your code editor.
 If you're using VS Code, install the extension [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
+<details>
+<summary>Screenshots</summary>
+
+### Once you install the extension you'll be able to preview it clicking on this button
+
+![Screen Shot 2023-01-22 at 11 59 12 AM](https://user-images.githubusercontent.com/54293301/213928972-469cecb1-1ebb-4efb-bb28-5f58796368ca.png)
+
+
+![Screen Shot 2023-01-22 at 11 59 44 AM](https://user-images.githubusercontent.com/54293301/213928968-9b7136a1-1b64-4ba5-9c2e-54206e216f17.png)
+
+
+</details>
+
+
 ---
 
 Sample readme
