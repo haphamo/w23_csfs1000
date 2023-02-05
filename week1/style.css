@@ -1,0 +1,38 @@
+#nav-links-mobile {
+  display: flex;
+  flex-direction: column;
+  font-size: 3rem;
+  align-items: center;
+}
+
+#close-menu img {
+  height: 20px;
+}
+#close-menu {
+  display: flex;
+  justify-content: end;
+}
+
+#nav-links > div {
+  display: flex;
+  justify-content: end;
+}
+
+@media screen and (min-width: 576px) {
+  #nav-links #mobile {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  #desktop-nav {
+    visibility: hidden;
+    /* display: none; */
+  }
+}
+/* @media screen and (min-width: 577px) {
+  #desktop-nav {
+    visibility: hidden;
+    display: block;
+  }
+} */
